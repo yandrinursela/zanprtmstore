@@ -127,7 +127,7 @@ fi
 echo -e "\e[32mloading...\e[0m"
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/yandrinursela/zanprtmstore/main/izin/"
+    REPO="https://raw.githubusercontent.com/yandrinursela/zanprtmstore/main/"
 
 ####
 start=$(date +%s)
