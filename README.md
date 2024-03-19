@@ -1,7 +1,7 @@
 
 
 ### INSTALL SCRIPT E
-<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/ariksavania/zanprtmvpn/main/premi.sh && chmod +x premi.sh && ./premi.sh
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/yandrinursela/zanprtmstore/main/premi.sh && chmod +x premi.sh && ./premi.sh
 </code></pre>
 
 
