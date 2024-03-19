@@ -29,10 +29,10 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "  Welcome To Sabde Store Tunneling ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "  Welcome To zanprtm Store Tunneling ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e " This Will Quick Setup VPN Server On Your Server"
-echo -e "  Auther : ${green}Sabde Store® ${NC}${YELLOW}(${NC} ${green} Sabde Store Tunneling ${NC}${YELLOW})${NC}"
-echo -e " © Recode By My Self Sabde Store Tunneling${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
+echo -e "  Auther : ${green}zanprtm Store® ${NC}${YELLOW}(${NC} ${green} zanprtm Store Tunneling ${NC}${YELLOW})${NC}"
+echo -e " © Recode By My Self zanprtm Store Tunneling${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 2
