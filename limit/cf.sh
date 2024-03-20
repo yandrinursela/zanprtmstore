@@ -2,11 +2,11 @@
 MYIP=$(wget -qO- icanhazip.com);
 apt install jq curl -y
 #read -p "Masukan Domain (contoh : Bogel)" domen
-DOMAIN=domenlu.me
+DOMAIN=zanpratama.biz.id
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c5)
-dns=${sub}.domenlu.me
-CF_ID=email cf lu
-CF_KEY=cf token ip lu
+dns=${sub}.zanpratama.biz.id
+CF_ID=ariksafaniadwi@gmail.com
+CF_KEY=f11a5a1a102f2234c71801060e8fab7df8512
 set -euo pipefail
 IP=$(wget -qO- icanhazip.com);
 echo "Updating DNS for ${dns}..."
